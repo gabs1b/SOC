@@ -1,1 +1,25 @@
 /* Copy and paste your CSS from CodePen into here */
+body {
+  font-family: sans-serif;
+}
+#cover {
+  text-align: center;
+}
+.year {
+  font-weight: bold;
+}
+li {
+  margin: 6px 0;
+}
+img { display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;}
+
+blockquote {
+  font-style: italic;
+}
+
+cite {
+  font-size: small;
+}
